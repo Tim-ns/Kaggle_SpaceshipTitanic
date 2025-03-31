@@ -8,6 +8,6 @@ This project consists of 3 parts:
 The best obtained score on Kaggle is 0.81155,
 23rd place on Leaderboard (31.03.2025). 
 The leaderboard is available here:
-https://www.kaggle.com/competitions/spaceship-titanic/leaderboard
+<br> https://www.kaggle.com/competitions/spaceship-titanic/leaderboard
 <br> My username on Kaggle:
-timnst
+<br> timnst
