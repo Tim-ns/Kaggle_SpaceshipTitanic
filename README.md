@@ -9,5 +9,5 @@ The best obtained score on Kaggle is 0.81155,
 23rd place on Leaderboard (31.03.2025). 
 The leaderboard is available here:
 https://www.kaggle.com/competitions/spaceship-titanic/leaderboard
-\n My username on Kaggle:
+<br> My username on Kaggle:
 timnst
